@@ -1,1 +1,1 @@
-# gboch3-Softuni-Java-Web-Bootstrap
+# Softuni Java Web Bootstrap
