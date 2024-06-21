@@ -1,2 +1,3 @@
-# Softuni Java Web Course 
-## Bootstrap Demo Project
+# Bootstrap Demo Project
+## Softuni Java Web Course
+
